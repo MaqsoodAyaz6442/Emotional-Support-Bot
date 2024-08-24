@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pyngrok
+langchain
+vaderSentiment
+transformers
+llama_index
+langdetect
